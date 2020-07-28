@@ -2,7 +2,7 @@
 ## Author: https://github.com/PerezMascato
 ## Twitter: https://twitter.com/perez_mascato
 ## Email: cybermascato@gmail.com (no... i'm not pwned!)
-## Detailed tutorial https://www.kalilinux.in/2020/07/how-to-hide-phishing-link.html
+## Full Tutorial https://www.kalilinux.in/2020/07/how-to-hide-phishing-link.html
 
 A simple script to generate a hidden url for social engineering.
 
